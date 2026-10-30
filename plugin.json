@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds a rolling 13-week cash forecast from invoices due + recurring bills, flagging shortfall weeks 6-8 weeks early.",
+  "keywords": [
+    "cash",
+    "forecaster",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-cash-forecaster",
+  "repository": "https://github.com/baselam88/kairos-cash-forecaster-plugin",
+  "version": "0.1.0"
+}
